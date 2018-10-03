@@ -1,0 +1,5 @@
+String as array
+fruit = 'banana'
+x = fruit[0]
+print(x)
+String regex or computations in array
