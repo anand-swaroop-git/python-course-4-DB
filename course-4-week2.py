@@ -160,5 +160,6 @@
 
 
 # Assessment - Counting Organizations - WIP
+# Fixed from here:
+# https://github.com/joanake/python/tree/master/coursera-4
 
-#
